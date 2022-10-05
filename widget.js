@@ -1,1 +1,1 @@
-alert('oi');
+window.onload = function () {alert('oi');};
